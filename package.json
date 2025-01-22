@@ -1,0 +1,28 @@
+{
+  "name": "niikei-zenn",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/niikei/niikei-zenn.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/niikei/niikei-zenn/issues"
+  },
+  "homepage": "https://github.com/niikei/niikei-zenn#readme",
+  "volta": {
+    "node": "22.13.1",
+    "npm": "11.0.0"
+  },
+  "dependencies": {
+    "zenn-cli": "^0.1.158"
+  }
+}
